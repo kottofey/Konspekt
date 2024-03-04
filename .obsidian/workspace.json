@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e84b3adec356f50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd2580f37a820755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe00ed0378cfe96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_FE/1. WebCore/1.1 Основы HTML и CSS/1.  HTML, основные теги.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b5341aa483906a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c03bbec5f8fc60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56241af9a361a979",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fa3e62f43b07522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b6df6ca9823870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e5709ad07373a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f37c21027d1c183c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5f9e904ade4e5e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff30684562f76f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42990ca71ed49e94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf60031b4bd0c336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e9408fa2930115",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30e087c67a8b5e24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md"
+              }
+            }
+          },
+          {
+            "id": "e2ca665b07f767f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "0c03bbec5f8fc60d",
+  "lastOpenFiles": [
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/1.  HTML, основные теги.md",
+    "_FE/1. WebCore/2. Сетки и БЭМ наименования/2. Микросетки.md",
+    "_FE/1. WebCore/2. Сетки и БЭМ наименования/1. Блочная модель.md",
+    "_FE/1. WebCore/2. Сетки и БЭМ наименования/Untitled.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/2. Разметка текста.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Untitled.md",
+    "_FE/1. WebCore/2. Сетки и БЭМ наименования",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/__Ревью.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/5. Селекторы.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Таблицы.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Шрифты.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Семантическая разметка.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Классы и селекторы.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Выравнивание.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/Видео и аудио.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/9. Формы.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/8. Специфичность селекторов.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/7.  Комбинаторы селекторов.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/6. Псевдоклассы и псевдоэлементы.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/4. Наследование.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/3. Ссылки.md",
+    "Attachements/opengraf-fehjsbuk.jpg",
+    "Attachements/Инлайновый контекст форматирования.pdf",
+    "Attachements",
+    "_FE/1. WebCore/Виды контента.md",
+    "_FE/1. WebCore/1.1 Основы HTML и CSS/9.1 Валидация форм.md",
+    "_FE/1. WebCore/Формы.md",
+    "_FE/1. WebCore/_Вопросы ментору.md",
+    "_FE/1. WebCore",
+    "Проект Шифр Вижинера/Класс CodeTable.md",
+    "2024-02-20.md",
+    "Проект Шифр Вижинера/Untitled.canvas",
+    "Заметки по Линуксу",
+    "Java",
+    "_debug_remotely_save",
+    "Another folder",
+    "_GIT"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "spellcheckDictionary": [
+    "виндовой",
+    "Дебаг",
+    "TreeMap",
+    "HashTable",
+    "сайдбар",
+    "ссылку-заглушку",
+    "Ссылки-якоря",
+    "инлайновым",
+    "картинки-обложки",
+    "видеофайла",
+    "мета-информацию",
+    "предзагрузки",
+    "табом",
+    "псевдотег",
+    "Псевдоэлементы",
+    "псевдоэленты",
+    "тэги",
+    "эги ",
+    "севдоэленты<",
+    "Псевдоклассы"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "attachmentFolderPath": "Attachements"
+}
