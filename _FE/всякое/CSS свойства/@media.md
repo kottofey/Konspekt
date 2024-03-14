@@ -100,7 +100,7 @@ p {
 ## Медиа-запросы в \<link\> и @import
 При подключении таблицы стилей можно внедрить медиа-запрос атрибутом `media`:
 ```html
-<link rel="stylesheet" media="screen and(max-width: 991.98px)" href="/assets/mobile.css">
+<link rel="stylesheet" media="screen and (max-width: 991.98px)" href="/assets/mobile.css">
 <link rel="stylesheet" media="screen and (min-width: 992px)" href="/assets/desktop.css">
 ```
 
