@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Monokai",
+  "textFontFamily": "Inter,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono,Inter",
+  "interfaceFontFamily": "Inter,JetBrains Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}
