@@ -1,19 +1,12 @@
-**`Element.classList`** — это доступное только для чтения свойство, которое содержит текущую коллекцию [`DOMTokenList`](https://developer.mozilla.org/ru/docs/Web/API/DOMTokenList) всех атрибутов `class` элемента.
+**`element.classList`** — это доступное только для чтения свойство, которое содержит текущую коллекцию всех классов элемента.
 
 Хоть оно и доступно только для чтения, его элементы можно менять при помощи методов:
-- add()
-- remove()
-- replace()
-- toggle()
+![[add()]]
 
-**Примеры**
-Добавляем элементу новый класс:
-```js
-element.classList.add("some-new-class");
-```
+![[remove()]]
 
-Ищем в списке классов элемента (в списке classList) нужный старый класс и удаляем его:
-```js
-element.classList.remove("some-old-class");
-```
+![[replace()]]
 
+![[toggle()]]
+
+![[contains()]]
