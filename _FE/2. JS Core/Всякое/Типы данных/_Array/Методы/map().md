@@ -1,4 +1,4 @@
-Метод **`map()`** создаёт новый массив с результатом вызова указанной функции для каждого элемента массива.
+Создает новый массив из того, что вернул коллбэк для каждого из элементов массива.
 
 ```js
 const new_array = arr.map(function callback( currentValue[, index[, array]]) {
@@ -24,3 +24,14 @@ const new_array = arr.map(function callback( currentValue[, index[, array]]) {
 
 - `thisArg` (Необязательный)
 	Значение, используемое в качестве this при вызове функции callback
+
+
+```js
+const usersName = users.map(user => user.name);
+console.log(usersName);
+
+// или //
+
+const usersNameAge = users.map( user => ({name: user.name, age: user.age}) );
+console.log(usersNameAge);
+```
