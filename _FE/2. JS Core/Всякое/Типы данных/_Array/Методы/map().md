@@ -1,7 +1,7 @@
 Создает новый массив из того, что вернул коллбэк для каждого из элементов массива.
 
 ```js
-const new_array = arr.map(function callback( currentValue[, index[, array]]) {
+const new_array = arr.map(function callback( currentValue[, index[, array]] ) {
     // Возвращает элемент для new_array
 }[, thisArg])
 ```
