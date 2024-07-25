@@ -37,3 +37,32 @@ let clone = Object.create(Object.getPrototypeOf(obj), Object.getOwnPropertyDescr
 ```
 
 Такой вызов создаёт точную копию объекта `obj`, включая все свойства: перечисляемые и неперечисляемые, геттеры/сеттеры для свойств – и всё это с правильным свойством `[[Prototype]]`.
+
+# Дескрипторы
+
+При создании объекта, при описании свойств можно указывать дескрипторы:
+
+- [[_Object#Неперечислимое свойство (enumerable false)|enumerable]]
+- [[_Object#Только для чтения (writable false)]|writable]]
+- [[_Object#Неконфигурируемое свойство (configurable false)|configurable]]
+
+```js
+const person = Object.create(
+	{},
+	{
+		name: {
+			value: 'Roman',
+			enumerable: true,
+			writable: true,
+			configurable: true 
+		}
+	}
+)
+
+for (let key in person) {
+	console.log(key, person[key]);
+} // name Roman
+```
+
+Если дескрипторы не указать, то по-умолчанию они все равняются `false`
+
