@@ -1,0 +1,1 @@
+`elem.hasAttribute(name)` – проверяет наличие атрибута.

@@ -1,0 +1,1 @@
+`elem.removeAttribute(name)` – удаляет атрибут.

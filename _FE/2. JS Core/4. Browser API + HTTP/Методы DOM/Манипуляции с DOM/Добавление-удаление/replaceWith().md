@@ -1,0 +1,1 @@
+`node.replaceWith(...nodes or strings)` – заменяет `node` заданными узлами или строками

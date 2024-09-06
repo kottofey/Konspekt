@@ -1,0 +1,1 @@
+`elem.setAttribute(name, value)` – устанавливает значение атрибута.

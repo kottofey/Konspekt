@@ -1,0 +1,1 @@
+`node.before(...nodes or strings)` – вставляет узлы или строки до `node`

@@ -1,0 +1,1 @@
+`elem.getAttribute(name)` – получает значение атрибута.
